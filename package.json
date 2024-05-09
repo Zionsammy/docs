@@ -22,7 +22,7 @@
     "@tailwindcss/typography": "^0.5.7",
     "@types/json-schema": "^7.0.15",
     "@types/mdast": "^4.0.3",
-    "@types/node": "20.4.9",
+    "@types/node": "20.12.7",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "@types/unist": "^2.0.10",
